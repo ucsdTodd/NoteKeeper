@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string name="create_list">Add List</string>
+    <string name="create_note">Add Note</string>
+</resources>

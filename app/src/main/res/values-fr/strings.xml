@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string name="create_note">Ajouter une note</string>
+    <string name="create_list">Ajouter la liste</string>
+</resources>
