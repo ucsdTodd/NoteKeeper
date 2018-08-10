@@ -4,6 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="textViewBackground">#FFFFFF</color>
+    <color name="textViewBackground">#FFFFE0</color>
+    <color name="listViewBackground">#FFFFFF</color>
 
 </resources>
